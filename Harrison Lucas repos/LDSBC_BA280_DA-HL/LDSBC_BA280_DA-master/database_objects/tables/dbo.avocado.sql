@@ -1,9 +1,9 @@
-USE [LDSBC_BA280_DA]
+USE [LDSBC_BA280_DA_HL]
 GO
 
 /****** Object:  Table [dbo].[avocado]    Script Date: 1/26/2020 4:56:24 PM ******/
-DROP TABLE [dbo].[avocado]
-GO
+--DROP TABLE [dbo].[avocado]
+--GO
 
 /****** Object:  Table [dbo].[avocado]    Script Date: 1/26/2020 4:56:24 PM ******/
 SET ANSI_NULLS ON
